@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Newbase: Issues</title>
+  <link rel="self" href="http://projects.ninestars.in/redmine/projects/newbase/issues.atom?key=331d88c9e115d4fe54fa36218127227e296a2cc6&amp;set_filter=1"/>
+  <link rel="alternate" href="http://projects.ninestars.in/redmine/projects/newbase/issues?set_filter=1"/>
+  <id>http://projects.ninestars.in/redmine/</id>
+  <updated>2015-02-18T05:07:24Z</updated>
+  <author>
+    <name>Ninestars Project Managment</name>
+  </author>
+  <generator uri="http://www.redmine.org/">
+Redmine  </generator>
+  <entry>
+    <title>Support #1262 (Resolved): Download ftp</title>
+    <link rel="alternate" href="http://projects.ninestars.in/redmine/issues/1262"/>
+    <id>http://projects.ninestars.in/redmine/issues/1262</id>
+    <updated>2015-02-18T05:07:24Z</updated>
+    <author>
+      <name>Siva Kandaraj</name>
+      <email>siva.k@ninestars.in</email>
+    </author>
+    <content type="html">
+&lt;p&gt;Screenshots of files being downloaded from newbase ftp server&lt;/p&gt;    </content>
+  </entry>
+  <entry>
+    <title>Bug #1242 (Resolved): Installation documentation</title>
+    <link rel="alternate" href="http://projects.ninestars.in/redmine/issues/1242"/>
+    <id>http://projects.ninestars.in/redmine/issues/1242</id>
+    <updated>2015-02-06T09:08:01Z</updated>
+    <author>
+      <name>Siva Kandaraj</name>
+      <email>siva.k@ninestars.in</email>
+    </author>
+    <content type="html">
+&lt;p&gt;Knowledge transfer from Anya.&lt;/p&gt;    </content>
+  </entry>
+  <entry>
+    <title>Enhancement #1241 (In Progress): Transition</title>
+    <link rel="alternate" href="http://projects.ninestars.in/redmine/issues/1241"/>
+    <id>http://projects.ninestars.in/redmine/issues/1241</id>
+    <updated>2015-02-06T06:38:06Z</updated>
+    <author>
+      <name>Siva Kandaraj</name>
+      <email>siva.k@ninestars.in</email>
+    </author>
+    <content type="html">
+&lt;p&gt;Transition for newbase code base&lt;/p&gt;    </content>
+  </entry>
+  <entry>
+    <title>Support #1240 (New): Remote knowledge transfer</title>
+    <link rel="alternate" href="http://projects.ninestars.in/redmine/issues/1240"/>
+    <id>http://projects.ninestars.in/redmine/issues/1240</id>
+    <updated>2015-02-06T06:25:40Z</updated>
+    <author>
+      <name>Siva Kandaraj</name>
+      <email>siva.k@ninestars.in</email>
+    </author>
+    <content type="html">
+&lt;p&gt;Anja and the team can not stay for more than 2 weeks. So we get the basic out of them and learn the rest of it remotely.&lt;/p&gt;    </content>
+  </entry>
+  <entry>
+    <title>Support #1237 (In Progress): Laptops and desk space</title>
+    <link rel="alternate" href="http://projects.ninestars.in/redmine/issues/1237"/>
+    <id>http://projects.ninestars.in/redmine/issues/1237</id>
+    <updated>2015-02-05T05:20:01Z</updated>
+    <author>
+      <name>Siva Kandaraj</name>
+      <email>siva.k@ninestars.in</email>
+    </author>
+    <content type="html">
+&lt;p&gt;Laptop order takes about 4 weeks to get. Need some space for new committers.&lt;/p&gt;    </content>
+  </entry>
+  <entry>
+    <title>Support #1236 (In Progress): Documentation</title>
+    <link rel="alternate" href="http://projects.ninestars.in/redmine/issues/1236"/>
+    <id>http://projects.ninestars.in/redmine/issues/1236</id>
+    <updated>2015-02-05T05:13:37Z</updated>
+    <author>
+      <name>Siva Kandaraj</name>
+      <email>siva.k@ninestars.in</email>
+    </author>
+    <content type="html">
+&lt;p&gt;Newbase does not have a document to support installation procedure of their clipping software.&lt;/p&gt;    </content>
+  </entry>
+  <entry>
+    <title>Support #1235 (New): Newbase team in India</title>
+    <link rel="alternate" href="http://projects.ninestars.in/redmine/issues/1235"/>
+    <id>http://projects.ninestars.in/redmine/issues/1235</id>
+    <updated>2015-02-05T05:11:44Z</updated>
+    <author>
+      <name>Siva Kandaraj</name>
+      <email>siva.k@ninestars.in</email>
+    </author>
+    <content type="html">
+&lt;p&gt;Newbase team of 2 developers along with Anja to visit Bangalore to train our new team. We will have hired a developer and add more members into existing support team (Palani team)&lt;/p&gt;    </content>
+  </entry>
+  <entry>
+    <title>Support #1234 (In Progress): Hiring committers</title>
+    <link rel="alternate" href="http://projects.ninestars.in/redmine/issues/1234"/>
+    <id>http://projects.ninestars.in/redmine/issues/1234</id>
+    <updated>2015-02-05T04:57:13Z</updated>
+    <author>
+      <name>Siva Kandaraj</name>
+      <email>siva.k@ninestars.in</email>
+    </author>
+    <content type="html">
+&lt;p&gt;Hiring mode&lt;/p&gt;    </content>
+  </entry>
+</feed>
